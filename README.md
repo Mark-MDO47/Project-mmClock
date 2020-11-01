@@ -1,3 +1,5 @@
+# Forked from https://github.com/MickMake/Project-mmClock
+
 # The mmClock
 Source code for my talking alarm clock. This alarm clock will:
 - [x] Sync time from an NTP server.
